@@ -9,7 +9,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 ## Tecnologias
 Tecnologias utilizadas neste projeto:
 
-* Node.js
+* [Node.js] (https://help.github.com/pt/github/writing-on-github/basic-writing-and-formatting-syntax#links)
 * React
 * React Native
 * Expo

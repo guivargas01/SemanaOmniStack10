@@ -1,4 +1,4 @@
-# Semana OmniStack10
+# Semana OmniStack 10
 
 ## Contexto
 Este repositório contém a aplicação DevRadar que foi desenvolvida durante a Semana OmniStack 10
